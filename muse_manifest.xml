@@ -1,0 +1,40 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="academysports.com" resolutions="1x" timestamp="1493670557070">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3902277574" ref="index"/>
+    <file name="outdoors-mobile.css" crc="486292348" ref="outdoors-mobile"/>
+    <file name="footwear-mobile.css" crc="4027631566" ref="footwear-mobile"/>
+    <file name="menu-mobile.css" crc="80588996" ref="menu-mobile"/>
+    <file name="sports-mobile.css" crc="3812197833" ref="sports-mobile"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:menu-mobile:footwear-mobile:sports-mobile:outdoors-mobile"/>
+    <file name="museutils.js" crc="4232573551" ref="index:menu-mobile:footwear-mobile:sports-mobile:outdoors-mobile"/>
+    <file name="whatinput.js" crc="86476730" ref="index:menu-mobile:footwear-mobile:sports-mobile:outdoors-mobile"/>
+    <file name="museconfig.js" crc="4152223963" ref="index:menu-mobile:footwear-mobile:sports-mobile:outdoors-mobile"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:menu-mobile:footwear-mobile:sports-mobile:outdoors-mobile"/>
+    <file name="require.js" crc="4234670167" ref="index:menu-mobile:footwear-mobile:sports-mobile:outdoors-mobile"/>
+  </folder>
+  <folder name="images">
+    <file name="home.jpg" crc="407217841" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu bar.png" crc="3977560723" seo="true" ref="menu-mobile">
+      <caption webpage="menu-mobile" alt=""/>
+    </file>
+    <file name="footwear.png" crc="419853813" seo="true" ref="footwear-mobile">
+      <caption webpage="footwear-mobile" alt=""/>
+    </file>
+    <file name="sports.png" crc="3965050743" seo="true" ref="sports-mobile">
+      <caption webpage="sports-mobile" alt=""/>
+    </file>
+    <file name="outdoors.png" crc="50452435" seo="true" ref="outdoors-mobile">
+      <caption webpage="outdoors-mobile" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4280983736" seo="true" mt="1493670422617" redirect="true"/>
+  <file name="menu-mobile.html" crc="4290639471" seo="true" mt="1493670437252" redirect="true"/>
+  <file name="footwear-mobile.html" crc="458278161" seo="true" mt="1493670446477" redirect="true"/>
+  <file name="sports-mobile.html" crc="38022766" seo="true" mt="1493670462346" redirect="true"/>
+  <file name="outdoors-mobile.html" crc="128024342" seo="true" mt="1493670469564" redirect="true"/>
+</manifest>
